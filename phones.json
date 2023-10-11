@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Dream Weddings: Expert Planning",
+    "img": "https://i.ibb.co/j4xPrN3/1.png",
+    "description": "Our Dream Weddings service is dedicated to transforming your wedding day vision into a flawless reality. With a team of seasoned wedding planners and coordinators, we offer expertise and creativity to make your dream wedding a memorable experience. We understand that every couple is unique, and so are their aspirations for their special day. That's why our services are entirely tailored to suit your preferences.",
+    "price": "$2500"
+  },
+  {
+    "id": 2,
+    "title": "Seamless Coordination Wedding",
+    "img": "https://i.ibb.co/b5QRxrs/2.jpg",
+    "description": "At Seamless Coordination, we specialize in transforming your wedding day into a seamless and stress-free experience. Our dedicated team of wedding coordinators is here to handle all the intricate details so that you can focus on enjoying your special day. We understand that no two weddings are alike, which is why our services are entirely tailored to your specific needs and preferences.",
+    "price": "$2000"
+  },
+  {
+    "id": 3,
+    "title": "Magical Destination Weeding",
+    "img": "https://i.ibb.co/VMVrcGR/3.jpg",
+    "description": "Destination Magic is your passport to a wedding adventure like no other. Imagine exchanging vows in breathtaking locations around the world, from tropical beaches to historic cities and beyond. Our expert destination wedding planners are here to make your dreams come true. Every destination wedding is a unique experience, and our services are customized to match your chosen location.",
+    "price": "$3000"
+  },
+  {
+    "id": 4,
+    "title": "Bespoke Wedding Services",
+    "img": "https://i.ibb.co/7tY0zHq/4.jpg",
+    "description": "Bespoke Services is your gateway to a wedding that truly reflects your unique love story and individual style. We believe that your wedding day should be a one-of-a-kind celebration, and that's exactly what we deliver. Our approach begins with a personal consultation, during which we get to know you, your partner, and your vision for the big day.",
+    "price": "1900"
+  },
+  {
+    "id": 5,
+    "title": "Cherished Moments",
+    "img": "https://i.ibb.co/Gdht5cD/5.jpg",
+    "description": "Cherished Moments is all about creating lasting memories through exquisite decor and design. We understand that your wedding day is a reflection of your love story, and we're here to make it beautiful, memorable, and budget-friendly. Our talented team of designers and decorators will work closely with you to curate the perfect atmosphere that resonates with your vision.",
+    "price": "$1500"
+  },
+  {
+    "id": 6,
+    "title": "Effortless Elegance",
+    "img": "https://i.ibb.co/KbMMcmt/6.jpg",
+    "description": "Effortless Elegance is the key to a wedding day that exudes sophistication and charm, and we offer a range of packages designed to suit all couples. We understand that every wedding is unique, and our packages are thoughtfully crafted to accommodate diverse tastes and budgets. Whether you desire an intimate gathering or a grand extravaganza, we have a package that's just right for you.",
+    "price": "$1800"
+  }
+]
